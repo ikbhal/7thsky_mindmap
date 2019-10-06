@@ -1,0 +1,11 @@
+Bismillah
+
+Insha allah create shortcuts
+
+tab -> create child node
+enter -> create sibling node ; create different graph if current node is root
+
+arrow key
+ left: go top node if exist; 
+ right: go first chil node ; mddle child
+ up: traverse sibling node ; to sibling ->child node;show nodes at the same level ; leav leve
